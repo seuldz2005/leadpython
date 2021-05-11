@@ -144,3 +144,8 @@ delete.place(bordermode=INSIDE, height=35, width=50, x=530, y=85)
 
 
 windows.mainloop()
+
+#Code By Seul
+#1 days to finish
+#Start to 23:00 10/5/2021 finish to 14:00 11/5/2021
+#day_2 to lead python
